@@ -43,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				0574BE4E1FB6978200726DF1 /* BillSplitter */,
+				0574BE651FB6D5FA00726DF1 /* Supporting Files */,
 				0574BE4D1FB6978200726DF1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,16 +59,24 @@
 		0574BE4E1FB6978200726DF1 /* BillSplitter */ = {
 			isa = PBXGroup;
 			children = (
-				0574BE4F1FB6978200726DF1 /* AppDelegate.h */,
-				0574BE501FB6978200726DF1 /* AppDelegate.m */,
 				0574BE521FB6978200726DF1 /* ViewController.h */,
 				0574BE531FB6978200726DF1 /* ViewController.m */,
 				0574BE551FB6978200726DF1 /* Main.storyboard */,
+			);
+			path = BillSplitter;
+			sourceTree = "<group>";
+		};
+		0574BE651FB6D5FA00726DF1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
 				0574BE581FB6978200726DF1 /* Assets.xcassets */,
 				0574BE5A1FB6978200726DF1 /* LaunchScreen.storyboard */,
 				0574BE5D1FB6978200726DF1 /* Info.plist */,
 				0574BE5E1FB6978200726DF1 /* main.m */,
+				0574BE4F1FB6978200726DF1 /* AppDelegate.h */,
+				0574BE501FB6978200726DF1 /* AppDelegate.m */,
 			);
+			name = "Supporting Files";
 			path = BillSplitter;
 			sourceTree = "<group>";
 		};
